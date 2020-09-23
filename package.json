@@ -1,12 +1,14 @@
 {
-  "name": "node-http-server",
+  "name": "nodejs-cypress-e2e",
   "version": "1.0.0",
-  "description": "Node.js example server starter project",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cypress": "5.2.0"
+  },
   "devDependencies": {
     "cypress": "^5.2.0",
     "nodemon": "1.18.4"
