@@ -8,6 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "cypress": "^5.2.0",
     "nodemon": "1.18.4"
   },
   "keywords": []
